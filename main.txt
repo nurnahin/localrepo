@@ -1,0 +1,2 @@
+main texts file
+feature1 texts file
